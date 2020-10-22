@@ -6,8 +6,8 @@ This script was inspired by inpharmaticist's [MintSigGraph](https://github.com/i
 
 ## Requirements
 
-Python 3
-jq
+- Python 3
+- jq
 
 ## Instructions
 
@@ -24,4 +24,4 @@ You should get alerts on your Keybase app every time there is an action with one
 
 This script is currently only configured to send notifications via Keybase.
 
-You may want to use another messaging tool like Signal (perhaps via signal-cli) or Matrix. PRs are welcome.
+You may want to use another messaging tool like Signal (perhaps via `signal-cli`) or Matrix. PRs are welcome.
