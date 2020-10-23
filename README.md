@@ -8,6 +8,7 @@ This script was inspired by inpharmaticist's [MintSigGraph](https://github.com/i
 
 - Python 3
 - jq
+- Keybase (see Notes below; messaging tool can be swapped for another one, but needs development)
 
 ## Instructions
 
